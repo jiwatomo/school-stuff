@@ -3,6 +3,7 @@ body {
 }
 .navi li {
     display: inline;
+    font-size: medium;
 }
 .update {
     display: inline;
