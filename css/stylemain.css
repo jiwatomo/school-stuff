@@ -21,6 +21,7 @@ body {
     flex-flow: column;
     height: 100%;
     width: 100%;
+    color: whitesmoke;
     background-color: crimson;
 }
 .main a {
@@ -29,9 +30,22 @@ body {
     font-size: 30px;
     color: white;
 }
-.main .atas {
+.main .atas h2 {
     width: 50%;
     height: 50%;
     margin-left: auto;
     margin-right: auto;
+}
+.main .atas a {
+    width: 50%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main .atas .paspal {
+    color: white;
+}
+.main .atas .paspal h3 {
+    width: 50%;
+    height: 50%;
 }
