@@ -1,0 +1,111 @@
+.popover {
+  max-width: 890px;
+}
+#jtron {
+  background-color: #ffd6ec;
+}
+#jtron #kiri {
+  color: white;
+  margin: 4rem -1rem 1rem 1rem;
+}
+#jtron #kanan img {
+  margin-left: 5rem;
+}
+#jtron #kiri h1 {
+  font-size: 4rem;
+  text-shadow: 1px 1px grey;
+}
+#jtron #kiri #buttonls {
+  margin-top: 1rem;
+  margin-left: 5rem;
+}
+#buttonls button {
+  margin-left: 0.5rem;
+}
+.circle {
+  background: #a7ffe4;
+  width: 15rem;
+  height: 8rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  color: white;
+}
+.col #midrc {
+  background: #a7ffe4;
+  width: 20rem;
+  height: 10rem;
+  border-radius: 50%;
+  display: flex;
+  color: white;
+}
+.col #midrc img {
+  width: 10rem;
+  position: relative;
+  top: -30%;
+  left: 110%;
+  transform: rotate(280deg);
+}
+
+#jenisc a {
+  text-decoration: none;
+}
+/* #jenis .row {
+  margin-bottom: 2rem;
+} */
+.row .garis #kiri {
+  padding-bottom: 10%;
+  margin-left: 100%;
+  margin-right: 2%;
+}
+.perf-circle {
+  background-color: white;
+  width: 350px;
+  height: 200px; /* as the half of the width */
+  border-top-left-radius: 210px; /* 100px of height + 10px of border */
+  border-top-right-radius: 210px; /* 100px of height + 10px of border */
+  display: flex;
+  position: relative;
+}
+
+.perf-circle-right {
+  margin-left: -10.74rem;
+}
+.triangel {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 152.5px 0 152.5px 161px;
+  background-color: #ffd6ec;
+  border-color: transparent transparent transparent #ffd6ec;
+}
+.jenis-kuali {
+  background-color: #ffd6ec;
+  list-style: none;
+}
+.mkuali a {
+  color: white;
+}
+.button-fillx {
+  width: 100%;
+}
+.jenis-kuali li {
+  margin-top: 2rem;
+}
+.garis {
+  padding-top: 10%;
+  margin-top: -11%;
+  margin-left: 45%;
+  margin-right: 46%;
+  display: flex;
+  position: relative;
+}
+.pinkmidbg {
+  background-color: #ffa1cf;
+}
+
+.tekit {
+  margin-top: 5%;
+  margin-left: 3%;
+  font-size: 3rem;
+}
